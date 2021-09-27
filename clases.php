@@ -1,3 +1,3 @@
 <?php
-//Version 1.01
+//Clase 1
 ?>
